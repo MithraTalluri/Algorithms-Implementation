@@ -1,7 +1,13 @@
 # Algorithms-Implementation
 A repository for all my algorithm implementations
 
-1. Kadane's Algorithm (with indices)
-2. Rabin Karp String Pattern Matching Algorithm
-3. Knuth Morris Pratt String Pattern Matching Algorithm
-4. Manacher's Algorithm for Longest Palindromic Substring
+## Dynamic-Programming
+*Kadane's Algorithm (with indices)*
+
+## Sorting
+*Merge Sort*
+
+## Strings 
+*Rabin Karp String Pattern Matching Algorithm*
+*Knuth Morris Pratt String Pattern Matching Algorithm*
+*Manacher's Algorithm for Longest Palindromic Substring*
